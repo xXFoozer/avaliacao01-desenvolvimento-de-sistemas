@@ -1,3 +1,20 @@
-export default function atividade05() {
-  console.log('Atividade 05');
+export default function atividade05() {  
+ 
+  
+  
+  let jogadores = {
+    nome:" ",
+    qtdeGols:0 ,
+    
+
+
+  }
+
+
+
+
+
+
+
+
 }
