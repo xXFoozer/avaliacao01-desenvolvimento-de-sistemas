@@ -48,7 +48,7 @@ Escreva um programa que peça ao usuário a idade de uma pessoa e determine sua 
   - De 12 a 17 anos: "Adolescente"
   - De 18 a 59 anos: "Adulto"
   - 60 anos ou mais: "Idoso"
-  - 
+  
 ---
 
 ### Questão 03
